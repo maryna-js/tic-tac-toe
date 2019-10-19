@@ -6,7 +6,6 @@ class TicTacToe {
             [null, null, null],
             [null, null, null],
          ];
-         this.check = true;
     }
 
     getCurrentPlayerSymbol() {
